@@ -20,9 +20,9 @@ The objective is to apply a Gradient Tracking algorithm to achieve consensus opt
 	- alpha_b (learning rate for bias)
 	- MAXITERS (Maximum Iterations for the update steps)
 	- Now run the python file
-3. You can also choose the decision type of decision boundary in the dataset from the following:
+3. You can also choose the type of decision boundary in the dataset from the following:
 	- ellipse (This is an elliptical boundary, set it to 1 and curve to 0 to choose this)
-	- curve (This is a non-linear curvy boundary, set it to 1 and ellipse to 0 to choose this)
+	- curve (This is a non-linear curved boundary, set it to 1 and ellipse to 0 to choose this)
  
 ## Task 1.3: Gradient Tracking Method on the Logistic Regression Cost Function
 
@@ -33,7 +33,7 @@ The objective is to apply a Gradient Tracking algorithm to achieve consensus opt
 	- MAXITERS (Maximum Iterations for the update steps)
 	- dataset_size (defines the size of the training dataset)
 	- graph_type (you can choose which type of graph you want among the agents from the following: "cycle", "path", "star", "complete")
-3. You can also choose the decision type of decision boundary in the dataset from the following:
+3. You can also choose the type of decision boundary in the dataset from the following:
 	- ellipse (This is an elliptical boundary, set it to 1 and curve to 0 to choose this)
-	- curve (This is a non-linear curvy boundary, set it to 1 and ellipse to 0 to choose this)
+	- curve (This is a non-linear curved boundary, set it to 1 and ellipse to 0 to choose this)
 4. Execute the python file
