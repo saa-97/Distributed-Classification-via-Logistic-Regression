@@ -11,7 +11,7 @@ The objective is to apply a Gradient Tracking algorithm to achieve consensus opt
 	- graph_type (you can choose which type of graph you want among the agents from the following: "cycle", "path", "star", "complete")
 4. Now run the python file
 
-## Tasl 1.2: Centralized Gradient Method using the logistic regression cost function
+## Task 1.2: Centralized Gradient Method using the logistic regression cost function
 1. Open file task_1.1_1.2
 2. Set the variable Task_1_2 to 1
 3. You can set the following parameters as you wish from the file directly:
